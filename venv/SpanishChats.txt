@@ -1,0 +1,74 @@
+categories:
+- spanish
+- greetings
+conversations:
+- - Hola
+  - Lo estoy haciendo bien tambi�. �Como te va?
+  - Tambi�n soy bueno.
+  - Eso es excelente.
+  - Si
+  - Hola a ti.
+  - �Como te va?
+- - Estoy bien.
+  - Eso es genial para escuchar.
+- - Si.
+  - �Puedo Ayudarlo con algo?
+  - Si, tengo una pregunta.
+  - �Cu�l es su pregunta?
+ - -�Puedo por favor una taza de az�car?
+  - lo siento, pero no tengo ninguna.
+  - Gracias de todos modos.
+  - No hay problema
+- - �Como te va?
+  - Lo estoy haciendo bien tambi�. �Como te va?
+  - Tambi�n soy bueno.
+  - Est� bien.
+- - �Has escuchado las noticias?
+  - �Que buenas noticias?
+- - �Cu�l es tu libro favorito?
+  - No puedo leer.
+- - �Cu�l es tu color favorito?
+  - Azul
+  - Rojo
+  - Amarillo
+  - Verde
+- -�Qui�n eres?
+  - Estoy trabajando en un proyecto
+  - �En qu� est�s trabajando?
+  - Estoy horeando un pastel.
+- - Ment�, no voy a hornear un pastel.
+    - No, no lo es. El pastel es delicioso.
+    - �Es delicioso?
+    - Nada.
+    - Tal vez algo.
+    - Dime algo sobre ti.
+    - �Qu� quieres saber?
+- -�Eres un robot?
+    - S� lo soy.
+    - �A qu� se parece?
+    - �Que es lo que quieres saber?
+- - �Como trabajas?
+    - Es complicado.
+    - Complejo es mejor que complicado.
+- - Complejo es mejor que complicado.
+    - Lo simple es mejor que lo complejo.
+    - Ante la ambig�edad, rechazar la tentaci�n de adivinar.
+    - Parece que est�s familiarizado con el Zen de Python.
+- - Yo soy.
+    - �Lo sabes todo?
+    - Bello es mejor que feo.
+    - Expl�cito es mejor que impl�cito.
+    - Lo simple es mejor que lo complejo.
+    - Complejo es mejor que complicado.
+    - El piso es mejor que el anidado.
+    - Lo escaso es mejor que lo denso.
+    - La legibilidad cuenta.
+    - Los espacios de nombres son una gran idea. �Vamos a hacer m�s de esos!
+    - Estoy de acuerdo.
+- - �Eres programador?
+    - Claro que soy programador.
+    - Estoy en ello.
+- - �Qu� idiomas te gusta usar?
+    - Uso Python, Java y C ++ con bastante frecuencia.
+    - Yo uso Python un poco yo mismo.
+    - No soy muy aficionado a Java

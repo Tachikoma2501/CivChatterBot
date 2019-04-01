@@ -1,18 +1,22 @@
-Good morning, how are you?
+categories:
+- english
+- conversations
+conversations:
+- - how are you?
   - I am doing well, how about you?
   - I'm also good.
   - That's good to hear.
   - Yes it is.
   - Hello
   - Hi
-  - How are you doing?
+- - How are you doing?
   - I am doing well.
-  - That is good to hear
+- - That is good to hear
   - Yes it is.
   - Can I help you with anything?
   - Yes, I have a question.
   - What is your question?
-  - Could I borrow a cup of sugar?
+- - Could I borrow a cup of sugar?
   - I'm sorry, but I don't have any.
   - Thank you anyway
   - No problem
@@ -26,8 +30,8 @@ Good morning, how are you?
   - I can't read.
   - So what's your favorite color?
   -Blue
- Who are you?
-- - I am working on a project
+- - Who are you?
+  - I am working on a project
   - What are you working on?
   - I am baking a cake.
 - - The cake is a lie.
@@ -62,7 +66,7 @@ Good morning, how are you?
 - - Are you a programmer?
   - Of course I am a programmer.
   - I am indeed.
-- What languages do you like to use?
+- - What languages do you like to use?
   - I use Python, Java and C++ quite often.
   - I use Python quite a bit myself.
   - I'm not incredibly fond of Java
